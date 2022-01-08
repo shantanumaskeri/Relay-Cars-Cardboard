@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interior
+  - Exterior
+  - Swap
+  - Vehicle
+  - Menu
+  - Info
+  - Video
+  - Home
+  - Grid
+  - Intro
+  - Back
+  - Brown
+  - Green
+  - Red
+  - Silver
+  - Lighting
+  - Gear
+  - Window
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Vehicle
+  - Furniture
+  - Showroom
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
